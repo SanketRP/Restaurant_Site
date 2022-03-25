@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br/>
 
-- 🔭 Preview the Website [Restaurant Site](https://sanketrp.github.io/mod5_solution/)
+- 🔭 Preview the Website [Restaurant Site](https://sanketrp.github.io/Restaurant_Site/)
 
 - 📫 How to reach me **sanketrp123@gmail.com**
 
